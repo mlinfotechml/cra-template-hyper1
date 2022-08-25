@@ -1,24 +1,24 @@
 {
   "name": "cra-template-hyper1",
-  "version": "1.2.0",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "Base template created by The Hyper Tech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "https://github.com/mlinfotechml/cra-template-hyper1",
+    "directory": ""
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/mlinfotechml/cra-template-hyper1/issues"
   },
   "files": [
     "template",
